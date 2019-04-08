@@ -1,0 +1,13 @@
+new_db:
+  user: ''
+  password: ''
+  host: ''
+  port: ''
+  db: ''
+
+old_db:
+  user: ''
+  password: ''
+  host: ''
+  port: ''
+  db: ''
